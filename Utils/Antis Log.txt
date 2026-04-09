@@ -1,0 +1,154 @@
+[Sunday, January 19, 2025 | 9:47:18 PM] Ignore 'osi {2} Event 201 SPAM (151)
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, January 19, 2025 | 9:47:18 PM] Ignore 000]Russian Annis {7} Event 200 SPAM (221)
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, January 19, 2025 | 9:47:18 PM] Ignore miro {6} Event 200 SPAM (221)
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, January 19, 2025 | 9:47:18 PM] Ignore dfd]Hedinn {5} Event 201 SPAM (151)
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, January 19, 2025 | 9:47:18 PM] Ignore yumi {9} Event 200 SPAM (221)
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, January 19, 2025 | 9:47:18 PM] Ignore Laese {1} Event 201 SPAM (401)
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, January 19, 2025 | 9:48:01 PM] Ignore yumi {9} Event 200 SPAM (221)
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, January 19, 2025 | 9:48:01 PM] Ignore 000]Russian Annis {7} Event 201 SPAM (151)
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, January 19, 2025 | 9:48:01 PM] Ignore dfd]Hedinn {5} Event 201 SPAM (151)
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, January 19, 2025 | 9:48:01 PM] Ignore miro {6} Event 201 SPAM (151)
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, January 19, 2025 | 9:48:01 PM] Ignore 'osi {2} Event 201 SPAM (151)
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, January 26, 2025 | 1:01:52 PM] Ignore [LS]Hedinn {4} Event 201 SPAM (151)
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, January 26, 2025 | 1:01:52 PM] Ignore zender {3} Event 201 SPAM (151)
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, January 26, 2025 | 1:03:46 PM] Ignore zender {3} Event 201 SPAM (151)
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, January 26, 2025 | 1:03:59 PM] Ignore zender {3} Event 201 SPAM (152)
+------------------------------------------------------------------------------------------------------------------------
+[Monday, January 27, 2025 | 8:07:38 PM] Ignore 0verZer0 {3} Event 202 SPAM (51)
+------------------------------------------------------------------------------------------------------------------------
+[Monday, January 27, 2025 | 8:09:13 PM] Ignore 0verZer0 {3} Event 202 SPAM (52)
+------------------------------------------------------------------------------------------------------------------------
+[Monday, January 27, 2025 | 8:09:20 PM] Ignore 0verZer0 {3} Event 202 SPAM (53)
+------------------------------------------------------------------------------------------------------------------------
+[Monday, January 27, 2025 | 8:09:23 PM] Ignore 0verZer0 {3} Event 202 SPAM (54)
+------------------------------------------------------------------------------------------------------------------------
+[Monday, January 27, 2025 | 8:09:27 PM] Ignore 0verZer0 {3} Event 202 SPAM (55)
+------------------------------------------------------------------------------------------------------------------------
+[Wednesday, February 19, 2025 | 8:26:37 PM] Ignore [LS]Ahmm2 {14} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)809051, (System.Byte)0=(System.Int32)14952
+------------------------------------------------------------------------------------------------------------------------
+[Wednesday, February 19, 2025 | 8:27:35 PM] Ignore [LS]Ahmm2 {14} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)809109, (System.Byte)0=(System.Int32)14167
+------------------------------------------------------------------------------------------------------------------------
+[Wednesday, February 19, 2025 | 8:27:35 PM] Ignore [LS]tadex {15} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)809109, (System.Byte)0=(System.Int32)15802
+------------------------------------------------------------------------------------------------------------------------
+[Saturday, February 22, 2025 | 8:56:52 PM] Ignore [LS]Aliya {2} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1143035, (System.Byte)0=(System.Int32)2047
+------------------------------------------------------------------------------------------------------------------------
+[Saturday, February 22, 2025 | 8:56:52 PM] Ignore Rian {7} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1143035, (System.Byte)0=(System.Int32)7067
+------------------------------------------------------------------------------------------------------------------------
+[Saturday, February 22, 2025 | 8:56:52 PM] Ignore :icant: {13} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1143035, (System.Byte)0=(System.Int32)13596
+------------------------------------------------------------------------------------------------------------------------
+[Saturday, February 22, 2025 | 8:56:52 PM] Ignore Xanix {10} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1143035, (System.Byte)0=(System.Int32)10537
+------------------------------------------------------------------------------------------------------------------------
+[Saturday, February 22, 2025 | 8:56:52 PM] Ignore '140 {3} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1143035, (System.Byte)0=(System.Int32)3579
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, February 23, 2025 | 9:50:44 PM] Ignore Rian {2} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1053404, (System.Byte)0=(System.Int32)2204
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, February 23, 2025 | 9:50:44 PM] Ignore :icant: {3} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1053404, (System.Byte)0=(System.Int32)3839
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, February 23, 2025 | 9:50:44 PM] Ignore Xanix {4} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1053404, (System.Byte)0=(System.Int32)4841
+------------------------------------------------------------------------------------------------------------------------
+[Monday, February 24, 2025 | 5:32:48 PM] Ignore Ravanello {1} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)1230622, (System.Byte)0=(System.Int32)1040
+------------------------------------------------------------------------------------------------------------------------
+[Monday, February 24, 2025 | 11:26:03 PM] Ignore :icant: {73} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)1251819, (System.Byte)0=(System.Int32)73112
+------------------------------------------------------------------------------------------------------------------------
+[Monday, February 24, 2025 | 11:26:03 PM] Ignore Ravanello {88} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)1251819, (System.Byte)0=(System.Int32)88864
+------------------------------------------------------------------------------------------------------------------------
+[Monday, February 24, 2025 | 11:26:03 PM] Ignore canada {77} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)1251819, (System.Byte)0=(System.Int32)77463
+------------------------------------------------------------------------------------------------------------------------
+[Monday, February 24, 2025 | 11:26:03 PM] Ignore [LS]Aliya {43} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)1251819, (System.Byte)0=(System.Int32)43295
+------------------------------------------------------------------------------------------------------------------------
+[Monday, February 24, 2025 | 11:26:03 PM] Ignore Rian {68} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)1251818, (System.Byte)0=(System.Int32)68533
+------------------------------------------------------------------------------------------------------------------------
+[Monday, February 24, 2025 | 11:26:03 PM] Ignore [LS].annis {83} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)1251819, (System.Byte)0=(System.Int32)83189
+------------------------------------------------------------------------------------------------------------------------
+[Monday, February 24, 2025 | 11:28:03 PM] Ignore Fen {79} Event 200 SPAM (221)
+------------------------------------------------------------------------------------------------------------------------
+[Monday, February 24, 2025 | 11:28:03 PM] Ignore Akeira {75} Event 201 SPAM (151)
+------------------------------------------------------------------------------------------------------------------------
+[Monday, February 24, 2025 | 11:28:03 PM] Ignore FFF]Seised {80} Event 200 SPAM (221)
+------------------------------------------------------------------------------------------------------------------------
+[Monday, February 24, 2025 | 11:28:03 PM] Ignore mystery {87} Event 201 SPAM (151)
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, April 06, 2025 | 7:53:32 PM] Ignore ashasha {4} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)482919, (System.Byte)0=(System.Int32)4783
+------------------------------------------------------------------------------------------------------------------------
+[Thursday, April 24, 2025 | 8:23:59 PM] Ban [LS]Binted {2} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)2039954, (System.Byte)0=(System.Int32)2646
+------------------------------------------------------------------------------------------------------------------------
+[Thursday, April 24, 2025 | 8:24:00 PM] Ban [LS]Binted {3} DC List
+------------------------------------------------------------------------------------------------------------------------
+[Thursday, April 24, 2025 | 8:24:02 PM] Ban Pdknvg {4} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)2039956, (System.Byte)0=(System.Int32)4606
+------------------------------------------------------------------------------------------------------------------------
+[Friday, May 30, 2025 | 9:02:21 PM] Ignore Yumi {13} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)857704, (System.Byte)0=(System.Int32)13006
+------------------------------------------------------------------------------------------------------------------------
+[Friday, May 30, 2025 | 9:02:21 PM] Ignore Lord {17} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)857704, (System.Byte)0=(System.Int32)17979
+------------------------------------------------------------------------------------------------------------------------
+[Friday, May 30, 2025 | 9:02:21 PM] Ignore aura {5} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)857704, (System.Byte)0=(System.Int32)5172
+------------------------------------------------------------------------------------------------------------------------
+[Friday, May 30, 2025 | 9:02:21 PM] Ignore :hamster_black: {2} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)857704, (System.Byte)0=(System.Int32)2491
+------------------------------------------------------------------------------------------------------------------------
+[Friday, May 30, 2025 | 9:02:21 PM] Ignore miro {1} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)857704, (System.Byte)0=(System.Int32)1212
+------------------------------------------------------------------------------------------------------------------------
+[Friday, May 30, 2025 | 9:02:21 PM] Ignore nairi {6} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)857704, (System.Byte)0=(System.Int32)6808
+------------------------------------------------------------------------------------------------------------------------
+[Friday, May 30, 2025 | 9:02:21 PM] Ignore ren {14} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)857704, (System.Byte)0=(System.Int32)14752
+------------------------------------------------------------------------------------------------------------------------
+[Friday, May 30, 2025 | 9:02:21 PM] Ignore ro {3} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)857704, (System.Byte)0=(System.Int32)3291
+------------------------------------------------------------------------------------------------------------------------
+[Thursday, June 19, 2025 | 7:35:34 PM] Ignore th {3} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1714461, (System.Byte)0=(System.Int32)3652
+------------------------------------------------------------------------------------------------------------------------
+[Thursday, June 19, 2025 | 7:36:34 PM] Ignore [LS]Annis {4} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1714400, (System.Byte)0=(System.Int32)4135
+------------------------------------------------------------------------------------------------------------------------
+[Thursday, June 19, 2025 | 7:40:54 PM] Ignore [LS]Annis {4} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1714140, (System.Byte)0=(System.Int32)4879
+------------------------------------------------------------------------------------------------------------------------
+[Thursday, June 19, 2025 | 7:40:55 PM] Ignore Xjocslg {5} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1714140, (System.Byte)0=(System.Int32)5284
+------------------------------------------------------------------------------------------------------------------------
+[Thursday, June 19, 2025 | 7:50:42 PM] Ignore [LS]Annis {4} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1713553, (System.Byte)0=(System.Int32)4616
+------------------------------------------------------------------------------------------------------------------------
+[Thursday, June 19, 2025 | 7:50:42 PM] Ignore Xjocslg {5} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1713553, (System.Byte)0=(System.Int32)5476
+------------------------------------------------------------------------------------------------------------------------
+[Thursday, June 19, 2025 | 7:50:42 PM] Ignore Yumi {6} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1713552, (System.Byte)0=(System.Int32)6411
+------------------------------------------------------------------------------------------------------------------------
+[Thursday, June 19, 2025 | 7:51:45 PM] Ignore [LS]Annis {4} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1713489, (System.Byte)0=(System.Int32)4475
+------------------------------------------------------------------------------------------------------------------------
+[Thursday, June 19, 2025 | 7:51:45 PM] Ignore Xjocslg {5} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1713489, (System.Byte)0=(System.Int32)5534
+------------------------------------------------------------------------------------------------------------------------
+[Thursday, June 19, 2025 | 7:51:46 PM] Ignore suka {7} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1713489, (System.Byte)0=(System.Int32)7598
+------------------------------------------------------------------------------------------------------------------------
+[Thursday, June 19, 2025 | 7:56:08 PM] Ignore [LS]Annis {4} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1713227, (System.Byte)0=(System.Int32)4272
+------------------------------------------------------------------------------------------------------------------------
+[Thursday, June 19, 2025 | 7:56:08 PM] Ignore suka {7} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1713227, (System.Byte)0=(System.Int32)7498
+------------------------------------------------------------------------------------------------------------------------
+[Thursday, June 19, 2025 | 7:56:08 PM] Ignore Hfqpw {8} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1713226, (System.Byte)0=(System.Int32)8415
+------------------------------------------------------------------------------------------------------------------------
+[Friday, June 20, 2025 | 6:08:06 PM] Ignore [LS]Alfa {3} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1633308, (System.Byte)0=(System.Int32)3455
+------------------------------------------------------------------------------------------------------------------------
+[Friday, June 20, 2025 | 6:18:32 PM] Ignore [LS]Alfa {4} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1632683, (System.Byte)0=(System.Int32)4862
+------------------------------------------------------------------------------------------------------------------------
+[Friday, June 20, 2025 | 6:19:25 PM] Ignore [LS]Alfa {4} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1632630, (System.Byte)0=(System.Int32)4747
+------------------------------------------------------------------------------------------------------------------------
+[Friday, June 20, 2025 | 6:19:25 PM] Ignore sigh {5} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1632629, (System.Byte)0=(System.Int32)5049
+------------------------------------------------------------------------------------------------------------------------
+[Friday, June 20, 2025 | 6:21:39 PM] Ignore sigh {5} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1632495, (System.Byte)0=(System.Int32)5172
+------------------------------------------------------------------------------------------------------------------------
+[Friday, June 20, 2025 | 6:21:40 PM] Ignore [LS]Alfa {4} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1632495, (System.Byte)0=(System.Int32)4225
+------------------------------------------------------------------------------------------------------------------------
+[Friday, June 20, 2025 | 6:21:40 PM] Ignore Valkyr {6} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1632494, (System.Byte)0=(System.Int32)6509
+------------------------------------------------------------------------------------------------------------------------
+[Friday, June 20, 2025 | 6:22:13 PM] Ignore sigh {5} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1632462, (System.Byte)0=(System.Int32)5163
+------------------------------------------------------------------------------------------------------------------------
+[Friday, June 20, 2025 | 6:22:13 PM] Ignore [LS]Alfa {4} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1632462, (System.Byte)0=(System.Int32)4434
+------------------------------------------------------------------------------------------------------------------------
+[Friday, June 20, 2025 | 6:22:13 PM] Ignore sigh {7} invalid TLW Detection: (System.Byte)4=(System.Object[])System.Object[], (System.Byte)3=(System.String)The_Last_Winter, (System.Byte)2=(System.Int32)-1632461, (System.Byte)0=(System.Int32)7949
+------------------------------------------------------------------------------------------------------------------------
